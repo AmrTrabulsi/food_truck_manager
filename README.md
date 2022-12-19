@@ -12,6 +12,8 @@ Manage food trucks / carts from anywhere online
 
     - Manage inventory of food trucks/carts from anywhere
 
+    - Performance of a particular truck over a time period
+
     - Get Alerts in real time indicating situation of trucks
 </p>
 
@@ -21,6 +23,6 @@ Potential future plans
 <p>
 
     - Expand this app to restaurants?
-    
+
     - Integrate communication (messaging) capabilities?
 </p>

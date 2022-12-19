@@ -4,6 +4,7 @@ Manage food trucks / carts from anywhere online
 
 <h3>Main Features (list not complete)</h3>
 <p>
+
     - Track food trucks/carts by their location from anywhere
 
     - Have information on employees managing a truck/cart and about stock of said truck/cart
@@ -18,6 +19,8 @@ Manage food trucks / carts from anywhere online
 Potential future plans
 </h3>
 <p>
+
     - Expand this app to restaurants?
+    
     - Integrate communication (messaging) capabilities?
 </p>
